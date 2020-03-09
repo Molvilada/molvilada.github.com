@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "cd Mis gustos"
+title:  "TYPE Mis_gustos.py"
 date:   2020-03-08 17:01:50 -0500
 categories: posts
 ---
-# C:\Users\Laura\Mis gustos
+# C:\users\Laura> TYPE Mis_gustos.py 
 <!-- {: style="color: red; opacity: 0.80;" } -->
 
 {% highlight python %}

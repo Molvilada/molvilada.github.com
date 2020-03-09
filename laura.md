@@ -4,6 +4,15 @@ layout: page
 permalink: /laura
 ---
 
-# C:\Users\Laura\Pequeña biografía
+# C:\Users\Laura> TYPE Persona.java
 
-Nací en 10 de octubre de 1997 en la clínica San Rafael, en la ciudad de Bogotá. Mi mamá es auxiliar contable y mi papá es independiente. Tengo un hermano mayor llamado Juan Diego. También tengo una perrita llamada Bahía.
+{% highlight java %}
+public class Persona{
+    public Persona(){
+        edad = 22;
+        nombre = "Laura";
+        email = "ldmolinav@unal.edu.co";
+        ocupacion = "Estudiante de ingenieria de sistemas";
+    }
+}
+{% endhighlight %}
