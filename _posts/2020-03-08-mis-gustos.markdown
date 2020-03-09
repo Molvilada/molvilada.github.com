@@ -4,7 +4,7 @@ title:  "TYPE Mis_gustos.py"
 date:   2020-03-08 17:01:50 -0500
 categories: posts
 ---
-# C:\users\Laura> TYPE Mis_gustos.py 
+# C:\Users\Laura> TYPE Mis_gustos.py 
 <!-- {: style="color: red; opacity: 0.80;" } -->
 
 {% highlight python %}
