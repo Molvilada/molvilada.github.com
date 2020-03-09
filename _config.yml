@@ -30,7 +30,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '...'
 
 # Build settings
 markdown: kramdown
