@@ -1,6 +1,44 @@
 ---
+
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
+Hola soy **Laura**, y ese va a ser un blog sobre mi.
+
+<!-- [Link]({{ '/path/to/page/' | relative_url }}) -->
+
+# Pequeña biografía
+
+Nací en 10 de octubre de 1997 en la clínica San Rafael, en la ciudad de Bogotá. Mi mamá es auxiliar contable y mi papá es independiente. Tengo un hermano mayor llamado Juan Diego. También tengo una perrita llamada Bahía.
+
+# Gustos
+
+## Películas
+
+Ver cine es uno de mis grandes hobbies. Mi película favorita es el [Padrino](https://www.youtube.com/watch?v=gCVj1LeYnsc) y director favorito es [Martin Scorserse](https://www.youtube.com/watch?v=4vzsz5purFM). Dejaré una lista de mis películas favoritas por género:
+
+*   Acción: Mad Max 2.
+*   Ciencia ficción: The truman show.
+*   Comedia: The nice guys.
+*   Drama: Sueños de fuga.
+*   Fantasía: El gran pez.
+*   Musical: La la land.
+*   Romance: El eterno resplandor de una mente sin recuerdos.
+*   Supenso: (aquí diré varias porque es mi género favorito y fue muy difícil decidir solo una) Memento, La isla siniestra, Psicosis, Pérdida, Seven, Inception, El cisne negro, Misery, The departed, Oldboy (la original), Eyes wide shut, Abre los ojos, Tesis.
+*   Terror:  Matanza en texas. Mención especial a: El resplandor y Martyrs.
+*   Bélico: La lista de Schindler. Mención especial a: El pianista.
+*   Biográfico: Una mente brillante.
+*   Gángster: El padrino. Mención especial a: Goodfellas, Scarface, Once upon a time in America, Casino.
+*   Animada: Perfect blue.
+
+## Música
+
+Me gusta escuchar cualquier tipo de música, desde lo más autóctono a lo más comercial. Mi banda favorita es Radihead, y mi albúm favorito es in Rainbows.
+
+![Octocat](https://images-na.ssl-images-amazon.com/images/I/A1MwaIeBpwL._SL1500_.jpg)
+
+## Otros
+
+Otras cosas que me gusta hacer es ver series (incluye anime), jugar videojuegos o juegos de mesa, leer noticias, visitar lugares y comer cosas nuevas.
