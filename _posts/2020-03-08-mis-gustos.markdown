@@ -1,19 +1,11 @@
 ---
-
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title:  "cd Mis gustos"
+date:   2020-03-08 17:01:50 -0500
+categories: jekyll update
 ---
-Hola soy **Laura**, y ese va a ser un blog sobre mi.
-
-<!-- [Link]({{ '/path/to/page/' | relative_url }}) -->
-
-# Pequeña biografía
-
-Nací en 10 de octubre de 1997 en la clínica San Rafael, en la ciudad de Bogotá. Mi mamá es auxiliar contable y mi papá es independiente. Tengo un hermano mayor llamado Juan Diego. También tengo una perrita llamada Bahía.
-
-# Gustos
+# C:\Users\Laura\Mis gustos
+<!-- {: style="color: red; opacity: 0.80;" } -->
 
 ## Películas
 
@@ -37,7 +29,7 @@ Ver cine es uno de mis grandes hobbies. Mi película favorita es el [Padrino](ht
 
 Me gusta escuchar cualquier tipo de música, desde lo más autóctono a lo más comercial. Mi banda favorita es Radihead, y mi albúm favorito es in Rainbows.
 
-![Octocat](https://images-na.ssl-images-amazon.com/images/I/A1MwaIeBpwL._SL1500_.jpg)
+![inRainbows](https://c-sf.smule.com/sf/s32/arr/0e/67/fdf92dd2-d8e6-4446-a07b-e747119afad3.jpg)
 
 ## Otros
 
